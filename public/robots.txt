@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://swissotel-tashkent.com/sitemap.xml
+
+Disallow: /admin
+Disallow: /api/

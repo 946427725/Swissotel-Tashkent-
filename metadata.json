@@ -1,0 +1,7 @@
+{
+  "name": "Swissôtel Tashkent - Luxury 5-Star Hotel",
+  "description": "Premium 5-star luxury hotel website for Swissôtel Tashkent, featuring elegant design, room booking inquiries, and Telegram integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
